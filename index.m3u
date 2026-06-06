@@ -1,0 +1,128 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://i.imgur.com/2PoEm1x.png",DSports Uruguay
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/FOX_Deportes_logo.png/960px-FOX_Deportes_logo.png",FOX DEPORTES
+https://cors-proxy.cooks.fyi/http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/994/369/non_2x/la-liga-logo-symbol-design-spain-football-european-countries-football-teams-illustration-free-vector.jpg",LIGA
+http://190.92.10.66:4000/play/a001/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSg8aLL3PfRrnaj0tPg7m12LfnMuUTxw3ewJA&s",BUNDESLIGA
+http://200.229.147.142:8000/play/a05b/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 1
+http://38.49.128.38:8000/play/a092/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 2
+http://45.181.122.46:8090/play/a01v
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN SUR 4
+http://200.229.147.142:8000/play/a05s/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 5
+http://200.229.147.142:8000/play/a05y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg",ESPN 6
+http://200.229.147.142:8000/play/a04y/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BPYn14-_lMmj9nLaXcMTeKuglAZnFivq-A&s",FOX SPORT MX 1
+http://200.229.147.142:8000/play/a06a/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1BPYn14-_lMmj9nLaXcMTeKuglAZnFivq-A&s",FOX SPORTS MX 2
+http://200.229.147.142:8000/play/a06b/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVQhpVT9IbIT8ugSUY8JWLZDXk64qKk-bNTg&s",BEIN SPORTS ESPAÑOL
+https://bein-esp-xumo.amagi.tv:443/playlistR720P.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TYC SPORTS
+http://201.217.246.42:44310/Live/3fcb6e26785fd8d415571b26dc3cf5d3/local-90.playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://e7.pngegg.com/pngimages/580/710/png-clipart-logo-claro-sports-graphics-vivo-logo-de-claro-text-logo.png",CLARO SPORTS
+http://200.229.147.142:8000/play/a06o/index.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5GaQcvncK3h-LvMI_qsjLiCjdfW4o7rNkYw&s",REAL MADRID TV
+https://rmtv.akamaized.net/hls/live/2043153/rmtv-es-web/master.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4F5PEuGE-A01Fg-8-AtkUXmalU0BeZsuLkw&s",BARCELONA TV
+https://amg17560-fcb-amg17560c2-rakuten-es-4889.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaspanish-rakutenes/playlist.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://golstadium.com/_next/image?url=%2Fimg%2Fhome%2Fchannels%2Fthumb-gol-classics.jpg&w=1920&q=75",Gol Classics
+https://d71gqtnep83vb.cloudfront.net/gol_classics/gol_classics.m3u8
+
+#EXTINF:-1 group-title="DEPORTES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/54/TyC_Sports_logo.svg/960px-TyC_Sports_logo.svg.png",TyC Sports USA
+http://45.170.130.224:8000/play/a020/index.m3u8
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/6/64/Caz%C3%A9TV_logo.svg/1280px-Caz%C3%A9TV_logo.svg.png" group-title="DEPORTES",CazeTV (1080i)
+https://dfr80qz435crc.cloudfront.net/MNOP/Amagi/Caze/Caze_TV_BR/Caze_TV.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i.imgur.com/w2t8CGT.png",Blu Radio
+https://mdstrm.com/live-stream-playlist/58d1921a72e2b22e2905e493.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i.imgur.com/E3wDEX5.png",La Morada Radio TV
+https://movil.ejeserver.com/live/lamoradatv.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i.imgur.com/BzBX7Qx.jpeg",Parranda Vallenata
+https://backupmaxmedia.hvmultiplay.com/hls/stream3/parrandavallenata.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://www.tdtparatodos.tv/sites/default/files/la_kalle.png",La Kalle
+https://mdstrm.com/live-stream-playlist/58d191f07290fbb058025843.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://i.imgur.com/rVKroNW.png",Vallenato Internacional (720p) [Not 24/7]
+https://59a564764e2b6.streamlock.net/vallenato/vallenatom/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-m/14380b6fcd3d8d72b9a4003e0afd05be.webp",TELEMUNDO ACCION
+https://xumo-drct-ch835-ekq0p.fast.nbcuni.com/live/master.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQClt_U8epAX-uHmgsYlhRehkcJK0B2iMIk-Q&s",SONI CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/playlist.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg",HBO XTREME
+http://200.229.147.142:8000/play/a00t/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg",HBO2 HD
+http://200.229.147.142:8000/play/a00r/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRxzhicMoo-B5zo4hi-8kTGAs68v3a-KRj7g&s",WARNER HD
+http://200.229.147.142:8000/play/a03e/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShSOhbv5hYY9kCbS2Epl4ZA1WsJqjwg6Voew&s",AXN HD
+http://200.229.147.142:8000/play/a027/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/702722678877126656/1EWWFB3-_400x400.jpg",Golden Premiere HD
+http://200.229.147.142:8000/play/a00g/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://pbs.twimg.com/profile_images/1758199970191060992/2tN90k3a.jpg",D PELICULAS
+http://200.229.147.142:8000/play/a080/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://gritaradio.com/wp-content/uploads/2024/09/02caf636d493c514726744a06be779c2.png",SONY HD
+http://200.229.147.142:8000/play/a022/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZURCHQTVCSkNqIY2MNKezeHsw__93b4yD1g&s",SPACE HD
+http://200.229.147.142:8000/play/a04p/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://sire-media-star.techops.disn.io/fox_es/custompage-main/680860.1024x576.jpg",STAR CHANNEL
+http://200.229.147.142:8000/play/a03d/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiwgr_J316Qqh00qfH4p7THzL7u8F2veoFokqfZlv5_Oy2GGknfCNHdkc6CZyeLmlow64LrmL2ZuvGNEd5ZKuHtC9hXSpJVqyokDAPrCchMJg1fm2g7XP4mtlNjPy-rXP1I8sST1dupLM0/s1600/uni4.jpg",Universal
+http://200.229.147.142:8000/play/a01t/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://play-lh.googleusercontent.com/nE6lSBRRr22kdMdZO60LaOEWSbEoT1bJ-uhHezT1QztI2eLc5lg7IGpB9y6-pE0XBQLL",BIG TV HD
+https://live20.bozztv.com/giatv/giatv-bigtv/bigtv/chunks.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg",HBO Family HD
+http://200.229.147.142:8000/play/a06q/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg",HBO HD
+http://200.229.147.142:8000/play/a00q/index.m3u8
+
+#EXTINF:-1 group-title="CINEMA" tvg-logo="https://creations.panzoid.com/creation-thumbnails/97670.jpg",HBO Plus HD
+http://200.229.147.142:8000/play/a00s/index.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="hhttps://gravity.fitness/cdn/shop/articles/DBD_Ep1_-_Dragon_Team__28recap_29.webp?v=1747140746&width=2048",DRAGON BALL Z
+https://live20.bozztv.com/giatv/giatv-dball/dball/chunks.m3u8
+
+#EXTINF:-1 group-title="GENERAL" tvg-logo="https://play-lh.googleusercontent.com/L7EqfJwpBmEv6S9JApTXuWYAjiUxfRO_sywuvo-lDg-1M3wSceY9Go0gpwpdsVrFZXPR",ANIME VISION
+https://jmp2.uk/stvp-ES300029LP
